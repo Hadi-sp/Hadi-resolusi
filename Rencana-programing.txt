@@ -1,6 +1,8 @@
 Rencana Programing
 - belajarh html
   *belajar dasar
+   option C
 - belajar framework
   *belajar dasar
-- belajar php
+  ^option C
+- Dasar program
